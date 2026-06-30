@@ -76,6 +76,8 @@ The notebook prints the optimal cost breakdown and produces a visualisation save
 - **Dots** — customers, coloured by their assigned warehouse  
 - **Lines** — customer-to-warehouse assignment paths  
 
+![Warehouse location solution](warehouse_solution.png)
+
 ---
 
 ## Requirements
